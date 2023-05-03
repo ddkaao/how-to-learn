@@ -1,4 +1,4 @@
 .links:hover {
-    color: black;
-    text-decoration: underline;
+    opacity: 0.5;
+    transition: .7s;
   }
